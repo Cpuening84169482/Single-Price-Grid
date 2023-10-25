@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 Below is the Desktop View of my web page:
 
-![Desktop view](/images/Desktop_View.png)
+![Desktop view](/images/Dekstop_View.png)
 
 Below is the Mobile View of my web page:
 
