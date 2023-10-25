@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](/images/Screenshot from 2023-10-25 11-47-16.png)
-![Mobile view](/images/Screenshot.png)
+![Desktop view](/images/Desktop_View.png)
+![Mobile view](/images/Mobile_View.png)
 
 ### Links
 
