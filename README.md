@@ -26,10 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot from 2023-10-25 11-47-16.png)
-
-![](images/Screenshot.png)
-
+![Desktop view](/images/Screenshot from 2023-10-25 11-47-16.png)
+![Mobile view](/images/Screenshot.png)
 
 ### Links
 
