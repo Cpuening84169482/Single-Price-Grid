@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot from 2023-10-25 11-48-02.png)
-
 ![](images/Screenshot from 2023-10-25 11-47-16.png)
+
+![](images/Screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
