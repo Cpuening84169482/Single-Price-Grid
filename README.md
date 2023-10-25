@@ -25,10 +25,12 @@ Users should be able to:
 - See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
-Below is the Desktop View of my web page
+Below is the Desktop View of my web page:
+
 ![Desktop view](/images/Desktop_View.png)
 
-Below is the Mobile View of mt web page
+Below is the Mobile View of my web page:
+
 ![Mobile view](/images/Mobile_View.png)
 
 ### Links
