@@ -30,17 +30,9 @@ Users should be able to:
 
 ![](images/Screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL:([https://your-live-site-url.com](https://cpuening84169482.github.io/Single-Price-Grid/))
 
 ## My process
@@ -55,9 +47,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+I Learned a lot about CSS Grids and the CSS Grid Items. It makes design web pages a lot simpler in terms of divs and specific layouts that would require a lot of additional work and sometimes a lot of confusion. A piece of code that I am proud of is displayed below:
 
 
 ```css
@@ -73,7 +63,7 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS Grid Item](https://www.w3schools.com/css/css_grid_item.asp) - This helped me for figuring out understanding how to set up and use CSS grids. I really liked this feature and really look forward to using it again in the future.
 
 
 ## Author
