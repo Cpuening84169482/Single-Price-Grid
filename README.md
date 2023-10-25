@@ -58,9 +58,13 @@ To see how you can add code snippets, see below:
 
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+.grid-container{
+    display: grid;
+    grid-template-areas:
+    'header header header header header header' 
+    'left left left right right right'
+    'left left left right right right';
+ }
 ```
 
 
@@ -70,8 +74,6 @@ To see how you can add code snippets, see below:
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Cpuening84169482](https://www.frontendmentor.io/profile/Cpuening84169482)
 
 
